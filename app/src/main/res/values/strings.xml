@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">M-Salon</string>
+    <string name="banner">banner</string>
+    <string name="bannerDescription">bannerDescription</string>
+    <string name="Firstname">Firstname</string>
+    <string name="Lastname">Lastname</string>
+    <string name="dob">dob</string>
+    <string name="password">password</string>
+    <string name="forgot_pasword">Forgot Pasword</string>
+    <string name="email_address">Email Address</string>
+
+
+</resources>
